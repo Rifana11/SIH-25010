@@ -42,7 +42,8 @@ The issues arise mainly due to middlemen controlling crop pricing and market acc
 <h3>The technical approach combines low-cost storage solutions, mobile-based market monitoring, and cooperative selling strategies. Farmers are trained to use simple storage techniques such as metal bins, tarpaulin-covered godowns, and natural preservation methods to prevent post-harvest losses.</h3>
 <ul><li>“The programming language to be used is Python, as it is easy to learn, supports data processing, and can be integrated with mobile or web platforms to deliver advisory services to farmers.” 🌾</li>
 <li><b><br>The technical approach combines low-cost storage solutions, mobile-based market monitoring, and cooperative selling strategies. Farmers are trained to use simple storage techniques such as metal bins, tarpaulin-covered godowns, and natural preservation methods to prevent post-harvest losses. Mobile apps and SMS alerts provide real-time price and demand information, enabling farmers to decide the optimal time to sell. </br>
-  ![WhatsApp Image 2025-09-22 at 21 24 32_11a8d7ca](https://github.com/user-attachments/assets/b794be66-2e97-4828-81bc-ff13f3ca1756)</b></li></ul>
+![flowchart](https://github.com/user-attachments/assets/075e95d3-b1af-4d8a-bd04-535be142fafd)</b></li></ul>
+
 
 ## Feasibility and Viability
 <h3>The system is highly feasible due to the widespread availability of mobile phones and rural connectivity. Low-cost storage methods make adoption affordable for small and marginal farmers. Training programs can be conducted through government extension services, NGOs, or local cooperatives.</h3>
